@@ -1,0 +1,25 @@
+1 Where is Jamal Ashraf office at
+1 Where is the Computer Science Department
+2 What class is Jamal Ashraf teaching during winter
+2 is Jamal teaching in Winter
+3 Who is the smartest student
+4 What is stack overflow
+5 What course do you have to take before taking CS3A
+6 Can I use my AP Computer Science to replace CS002
+7 What language is CS002 taught in?
+8 What Language is taught in CS3C 
+9 What is taught in CS08
+10 What is the email of the Computer Science Division
+11 What Language is taught in CS3B
+12 What is taught in math 55
+13 What is taught in math 010
+14 What is taught in Math 5b
+15 What is taught in Math 5a
+16 What is taught in Math 5c
+17 Who is the Math and Computer Science Dean
+18 Where is the Math Success Center
+19 What are the prerequisites for CS002
+20 What are the prerequisites for CS003A
+21 Can you take CS003C with another class
+1 where is jamal ashraf office
+1 jamal

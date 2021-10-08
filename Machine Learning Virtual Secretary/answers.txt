@@ -1,0 +1,21 @@
+1 R building, room 322
+2 CS3B in R building room 211, from 7:30 AM to 1:00 PM
+3 Hansel Rahardjo
+4 A website that provides a lot of useful CS tips for any programming language
+5 CS002
+6 No, you can't
+7 C++
+8 Python
+9 Data Structures
+10 macs@pasadena.edu
+11 Java
+12 Differential Equations
+13 Linear Algebra
+14 Single Variable Calculus II
+15 Single Variable Calculus III
+16 Multivariable Calculus
+17 Carrie Starbird
+18 R-206
+19 Either Math 007B or Math 008 or Math 009
+20 CS002
+21 May be taken concurrently with CS003A or CS003B
